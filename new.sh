@@ -77,6 +77,15 @@ java -cp "\$ROOT_DIR/build" $PACKAGE_NAME.Main
 EOF
 
 # =========================
+# .gitignore
+# =========================
+
+cat > "$PROJECT_NAME/.gitignore" <<EOF
+# Compiled class files
+/build/
+EOF
+
+# =========================
 # Permisos
 # =========================
 
