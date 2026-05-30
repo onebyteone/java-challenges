@@ -1,9 +1,9 @@
 package com.example;
 
-import com.example.test.*;
+import com.example.test.CyclicNumberProgram;
 
 public class Main {
     public static void main(String[] args) {
-        AsteriskSpiralProgram.run();
+        CyclicNumberProgram.run();
     }
 }
