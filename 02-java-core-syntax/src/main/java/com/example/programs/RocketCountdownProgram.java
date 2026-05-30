@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.programs;
 
 public class RocketCountdownProgram {
     public static void run() {

@@ -5,7 +5,7 @@
  * (una rotación) de los dígitos del número original.
  */
 
-package com.example.test;
+package com.example.programs;
 
 import java.util.Scanner;
 

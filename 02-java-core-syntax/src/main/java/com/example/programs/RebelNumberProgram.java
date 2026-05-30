@@ -7,7 +7,7 @@
  *
  */
 
-package com.example.test;
+package com.example.programs;
 
 import java.util.Scanner;
 

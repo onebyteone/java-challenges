@@ -1,6 +1,6 @@
 package com.example;
 
-import com.example.test.CyclicNumberProgram;
+import com.example.programs.CyclicNumberProgram;
 
 public class Main {
     public static void main(String[] args) {
