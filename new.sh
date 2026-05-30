@@ -128,6 +128,13 @@ javac -d "$ROOT_DIR/build" -sourcepath "$ROOT_DIR/src/main/java:$ROOT_DIR/src/te
 java -cp "$ROOT_DIR/build" "$TEST_CLASS"
 EOF
 
+# ========================
+# README.md
+# =========================
+cat > "$PROJECT_NAME/README.md" <<EOF
+# $PROJECT_NAME
+EOF
+
 # =========================
 # .gitignore
 # =========================
